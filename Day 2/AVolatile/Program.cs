@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Threading;
 
-namespace EHowToWait
+namespace AVolatile
 {
     class Program
     {
-        static bool isRunning;
+        static volatile bool isRunning;
         static void Worker()
         {
-            for (int i= 0; i < 10; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Thread.Sleep(200);
             }
@@ -18,7 +18,7 @@ namespace EHowToWait
         static void Main(string[] args)
         {
             Thread t = new Thread(Worker);
-            
+
             isRunning = true;
             t.Start();
 

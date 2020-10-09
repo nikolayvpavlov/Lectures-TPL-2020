@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABranchPrediction", "ABranchPrediction\ABranchPrediction.csproj", "{853AE79D-415F-449C-B04F-D12BD42D493F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABranchPrediction", "ABranchPrediction\ABranchPrediction.csproj", "{853AE79D-415F-449C-B04F-D12BD42D493F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFirstThread", "BFirstThread\BFirstThread.csproj", "{2580BBFD-4367-4C69-9AEB-5FEB8EE6FB44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BFirstThread", "BFirstThread\BFirstThread.csproj", "{2580BBFD-4367-4C69-9AEB-5FEB8EE6FB44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMoreThreads", "CMoreThreads\CMoreThreads.csproj", "{82DAFAA5-5C92-46FE-845E-14513DD08EA9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CMoreThreads", "CMoreThreads\CMoreThreads.csproj", "{82DAFAA5-5C92-46FE-845E-14513DD08EA9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DThreadsUI", "DThreadsUI\DThreadsUI.csproj", "{705D0B32-3DBE-4EE6-8236-A11E556D5BDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EHowToWait", "EHowToWait\EHowToWait.csproj", "{00931CA6-953D-4FCF-967C-D7EA9A52414A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EHowToWait", "EHowToWait\EHowToWait.csproj", "{00931CA6-953D-4FCF-967C-D7EA9A52414A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
