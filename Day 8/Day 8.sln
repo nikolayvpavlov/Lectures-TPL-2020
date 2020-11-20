@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AThreadsUI", "AThreadsUI\AThreadsUI.csproj", "{E386D0D2-F117-46C2-AA66-11038199D88F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BThreadPool", "BThreadPool\BThreadPool.csproj", "{4F7D47CA-0B06-4262-93EE-D156DF299672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIntroTasks", "CIntroTasks\CIntroTasks.csproj", "{02B65929-2700-42AB-9B00-6D0B71D1A57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTasksContinued", "DTasksContinued\DTasksContinued.csproj", "{CC42FE0C-B0B2-49A0-B209-59FE34AF0D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETaskContinuation", "ETaskContinuation\ETaskContinuation.csproj", "{F8A35657-24AF-4D5F-B3C2-3632CB7C7B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMultipleTasks", "FMultipleTasks\FMultipleTasks.csproj", "{10F8381D-F9C2-4BE4-A2EF-762ACB2ACE81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E386D0D2-F117-46C2-AA66-11038199D88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E386D0D2-F117-46C2-AA66-11038199D88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E386D0D2-F117-46C2-AA66-11038199D88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E386D0D2-F117-46C2-AA66-11038199D88F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7D47CA-0B06-4262-93EE-D156DF299672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7D47CA-0B06-4262-93EE-D156DF299672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7D47CA-0B06-4262-93EE-D156DF299672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7D47CA-0B06-4262-93EE-D156DF299672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B65929-2700-42AB-9B00-6D0B71D1A57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B65929-2700-42AB-9B00-6D0B71D1A57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B65929-2700-42AB-9B00-6D0B71D1A57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B65929-2700-42AB-9B00-6D0B71D1A57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC42FE0C-B0B2-49A0-B209-59FE34AF0D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC42FE0C-B0B2-49A0-B209-59FE34AF0D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC42FE0C-B0B2-49A0-B209-59FE34AF0D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC42FE0C-B0B2-49A0-B209-59FE34AF0D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A35657-24AF-4D5F-B3C2-3632CB7C7B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A35657-24AF-4D5F-B3C2-3632CB7C7B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A35657-24AF-4D5F-B3C2-3632CB7C7B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A35657-24AF-4D5F-B3C2-3632CB7C7B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F8381D-F9C2-4BE4-A2EF-762ACB2ACE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F8381D-F9C2-4BE4-A2EF-762ACB2ACE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F8381D-F9C2-4BE4-A2EF-762ACB2ACE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F8381D-F9C2-4BE4-A2EF-762ACB2ACE81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA3551BC-76CA-4A15-8A9F-9B703D38BF6D}
+	EndGlobalSection
+EndGlobal
